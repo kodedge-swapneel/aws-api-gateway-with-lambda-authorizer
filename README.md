@@ -12,6 +12,7 @@
 
 ### [HTTP API with Response Mode : IAM Policy (Integration - 4)](lambda_function_for_http_api_iampolicy.py)
 
+
 1. In the code, change region_name according to your region.
 2. Change value of parameter_name (i.e. access token name), same as given in AWS SSM Parameter store.
 3. For more information, [watch the video](url)
