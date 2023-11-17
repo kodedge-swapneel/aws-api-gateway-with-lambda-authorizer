@@ -1,6 +1,6 @@
 # AWS API Gateway with Lambda Authorizer
 
-## [Click here to watch the video for demonstration.](url)
+## [Click here to watch the video for demonstration.](https://youtu.be/L-C7bQM-OO8)
 
 ## In this reposiotry, you will find code for lambda function for the following integrations.
 
@@ -15,4 +15,4 @@
 
 1. In the code, change region_name according to your region.
 2. Change value of parameter_name (i.e. access token name), same as given in AWS SSM Parameter store.
-3. For more information, [watch the video](url)
+3. For more information, [watch the video](https://youtu.be/L-C7bQM-OO8)
